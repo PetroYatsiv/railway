@@ -1,0 +1,17 @@
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\bin\Debug\net7.0\TrainComponent.Persistence.deps.json
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\bin\Debug\net7.0\TrainComponent.Persistence.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\bin\Debug\net7.0\TrainComponent.Persistence.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\bin\Debug\net7.0\TrainComponent.Application.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\bin\Debug\net7.0\TrainComponent.Domain.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\bin\Debug\net7.0\TrainComponent.Application.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\bin\Debug\net7.0\TrainComponent.Domain.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.csproj.AssemblyReference.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.AssemblyInfoInputs.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.AssemblyInfo.cs
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.csproj.CoreCompileInputs.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.csproj.CopyComplete
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\refint\TrainComponent.Persistence.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\TrainComponent.Persistence.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Persistence\obj\Debug\net7.0\ref\TrainComponent.Persistence.dll

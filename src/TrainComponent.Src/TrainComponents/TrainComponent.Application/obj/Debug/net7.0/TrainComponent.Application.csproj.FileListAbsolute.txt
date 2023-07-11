@@ -1,0 +1,15 @@
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\bin\Debug\net7.0\TrainComponent.Application.deps.json
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\bin\Debug\net7.0\TrainComponent.Application.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\bin\Debug\net7.0\TrainComponent.Application.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\bin\Debug\net7.0\TrainComponent.Domain.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\bin\Debug\net7.0\TrainComponent.Domain.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.csproj.AssemblyReference.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.AssemblyInfoInputs.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.AssemblyInfo.cs
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.csproj.CoreCompileInputs.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.csproj.CopyComplete
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\refint\TrainComponent.Application.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\TrainComponent.Application.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Application\obj\Debug\net7.0\ref\TrainComponent.Application.dll

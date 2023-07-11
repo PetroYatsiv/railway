@@ -1,0 +1,6 @@
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Domain\bin\Debug\TrainComponent.Domain.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Domain\bin\Debug\TrainComponent.Domain.pdb
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Domain\obj\Debug\TrainComponent.Domain.csproj.AssemblyReference.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Domain\obj\Debug\TrainComponent.Domain.csproj.CoreCompileInputs.cache
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Domain\obj\Debug\TrainComponent.Domain.dll
+C:\VISIONIT\src\TrainComponent.Src\TrainComponents\TrainComponent.Domain\obj\Debug\TrainComponent.Domain.pdb
